@@ -2,7 +2,7 @@
 	"name": "SQL script 1",
 	"properties": {
 		"content": {
-			"query": "show databases;",
+			"query": "show databases;\nshow databases;",
 			"metadata": {
 				"language": "sql"
 			},
