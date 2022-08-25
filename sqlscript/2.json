@@ -2,7 +2,7 @@
 	"name": "2",
 	"properties": {
 		"content": {
-			"query": "show databases;\nshow databases;\nshow databases;",
+			"query": "show databases;\nshow databases;\nshow databases;\nshow databases;\nshow databases;",
 			"metadata": {
 				"language": "sql"
 			},
